@@ -14,7 +14,7 @@
 
 [The Data Visualization Catalogue](https://datavizcatalogue.com/) - great resource, has explanations for what things do and where they're commonly used.
 
-[Matplotlib visualization gallery](https://matplotlib.org/gallery.html)
+[Matplotlib visualization gallery](https://matplotlib.org/stable/gallery/index.html)
 
 ## Useful Books
 
